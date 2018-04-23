@@ -6,7 +6,7 @@ facenet.py was taken from https://github.com/davidsandberg/facenet/tree/master/s
 
 detect_face.py was taken from https://github.com/davidsandberg/facenet/tree/master/src/align/detect_face.py
 
-train.py and mtcnn_detect.py were based on https://github.com/davidsandberg/facenet/tree/master/src/classify.py and https://github.com/davidsandberg/facenet/tree/master/src/compare.py
+train.py and mtcnn_detect.py are based on https://github.com/davidsandberg/facenet/tree/master/src/classify.py and https://github.com/davidsandberg/facenet/tree/master/src/compare.py
 
 download the model 20170512-110547.zip from https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk/edit
 
